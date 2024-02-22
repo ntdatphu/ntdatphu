@@ -13,7 +13,7 @@
 - Always like to discover new things on technology devices, like right now I always want to explore artificial intelligence.
   - Always want to be the first to experience new and unique things (It feels like I got something that other people were waiting for)
   
-## 😌 My favorite
+## 😌 Favorite
 - Information technology and things related to computers. 
   - Because I was fascinated by games and interesting things due to being exposed to computers at school or my sister's since kindergarten.
 - A little understanding of software technology
@@ -21,9 +21,18 @@
 - Reading books 📚
   - I have not confirmed that I like reading books, but if given enough time to interact with books, I can read them attentively.
  
-# My Knowledge level of programming programs
-- A bit about Javascript and Python 
-  - It must be called an extremely basic level
+# Career
+**Still a student**
+
+There's nothing worth talking about
+## Proficient in programming languages
+- [ ] NodeJS
+- [ ] Python
+- [ ] PHP
+- [ ] Java
+- [ ] C++
+- [ ] C#
+
 ## My goal
 - [x] *`(08/22/2023)`* *~~Own a laptop~~*
 - [ ] High school graduation
