@@ -1,7 +1,8 @@
 # 😉 Who I am?
 - 🪪 My name is Nguyễn Trần Đạt Phú (NTDP is the word written by the first letters of the name)
-- 🎂 My birthday is on the 12/27/2006 (Capricorn 22/12-19/01)
+- 🎂 My birthday is on the 12/27/2006 (Capricorn 12/22-01/19)
 - 🌐 I'm Vietnamese 🇻🇳
+- 😳 A shy boy
   
 ## 😀 My character
 - Rarely talk to people but chatting online is a bit "extroverted"
@@ -11,9 +12,8 @@
 - Slightly OCD ✨
 - Always like to discover new things on technology devices, like right now I always want to explore artificial intelligence.
   - Always want to be the first to experience new and unique things (It feels like I got something that other people were waiting for)
-- Quite shy 😳
   
-## My favorite
+## 😌 My favorite
 - Information technology and things related to computers. 
   - Because I was fascinated by games and interesting things due to being exposed to computers at school or my sister's since kindergarten.
 - A little understanding of software technology
@@ -24,3 +24,9 @@
 # My Knowledge level of programming programs
 - A bit about Javascript and Python 
   - It must be called an extremely basic level
+## My goal
+- [x] *`(08/22/2023)`* *~~Own a laptop~~*
+- [ ] High school graduation
+- [ ] Study at IT university
+- [ ] Complete lessons in software engineering
+- [ ] I myself can develop useful applications for everyone
