@@ -28,8 +28,8 @@ There's nothing worth talking about
 - [ ] C++
 - [ ] C#
 - [ ] HTML, CSS and JavaScript
-- [ ] Java
 - [ ] Python
+- [ ] Java
 - [ ] php
 - [ ] nodeJS
 - [ ] NextJS
