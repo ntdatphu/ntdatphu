@@ -1,4 +1,4 @@
-# 😉 Who I am?
+# 😉 Who am I?
 🪪 My name is **Nguyễn Trần Đạt Phú**</br>
 🎂 My birthday is on the **12/27/2006** *(I'm **Capricorn**)* </br>
 🌐 I'm Vietnamese </br>
@@ -27,13 +27,9 @@ There's nothing worth talking about
 > There aren't any yet, I'm trying my best to approach them one by one
 - [ ] C++
 - [ ] C#
-- [ ] HTML, CSS and JavaScript
 - [ ] Python
-- [ ] Java
-- [ ] php
-- [ ] nodeJS
-- [ ] NextJS
-- [ ] ReactJS
+- [ ] Git & Github
+- [ ] Linux OS
 - [ ] ...
 
 ## 🎯 My goal
