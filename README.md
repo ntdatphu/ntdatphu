@@ -25,9 +25,10 @@ Except for things related to microchips, hard drives,... it looks quite complica
 There's nothing worth talking about
 ## 🌐 Proficient in programming languages
 > There aren't any yet, I'm trying my best to approach them one by one
+- [ ] C
 - [ ] C++
-- [ ] C#
 - [ ] Python
+- [ ] C#
 - [ ] Git & Github
 - [ ] Linux OS
 - [ ] ...
